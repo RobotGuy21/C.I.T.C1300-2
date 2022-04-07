@@ -1,0 +1,78 @@
+body {
+    background-color: red;
+}
+
+#container {
+    background-color: gold;
+    width: 700px;
+    margin: 20px auto;
+    border-radius: 2.5px;
+}
+
+header {
+    padding-top: 5px;
+    border-radius: 2.5px 2.5px 0 0;
+}
+header img {
+    display: block;
+    width: 700px;
+    margin: 0 auto;
+}
+
+header h1 {
+    font-size: 5em;
+    text-align: center;
+    color: slateblue;
+}
+
+nav {
+    background-color: grey;
+    padding-top: 10px;
+    text-align: center;
+}
+
+nav a {
+    display: inline-block;
+    background-color: white;
+    height: 40px;
+    width: 175px;
+    font-size: 1.5em;
+    font-weight: bold;
+    line-height: 40px;
+    color:palevioletred ;
+    text-decoration: none;
+    border-radius: 40px 40px 0 0;
+    margin: 0 50px;
+    
+}
+
+nav a:hover {
+    background-color: orange;
+    color: red;
+}
+
+main h2 {
+    text-align: center;
+    color: silver;
+    font-size: 5em;
+}
+
+main img {
+    display: block;
+    width: 40;
+    margin: 50px auto;
+    background-color: aliceblue;
+    border-radius: 20px;
+
+}
+
+
+
+footer {
+background-color: coral;
+padding: 40px;
+font-size: 1.5em;
+text-align: center;
+border-radius: 0 0 5px 5px;
+}
+
