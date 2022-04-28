@@ -1,6 +1,7 @@
 /* Global Stlyes */
 body {
     background-color: rgba(128, 128, 214, 0.656);
+    font-family: 'Beau Rivage', cursive;
 }
 
 img {
@@ -28,6 +29,7 @@ header h1 {
     color: gold;
     text-shadow: 2px 2px 2px red;
     text-align: center;
+    font-family: 'Ms Madi', cursive;
 }
 
 nav ul {
@@ -69,6 +71,7 @@ h2, h3 {
     text-shadow: 2px 2px 2px rgb(35, 192, 35);
     font-size: 1.5em;
     text-align: center;
+    font-family: 'Ms Madi', cursive;
 }
 
 section img, aside img {
@@ -175,6 +178,7 @@ audio, video {
 
     header {
         border-radius: 20px 20px 0 0;
+        font-family: 'Ms Madi', cursive;
     }
 
     nav li a {
